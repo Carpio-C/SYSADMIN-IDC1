@@ -107,7 +107,7 @@ height="6.766760717410324in"}
                     design, including  and justifications. 
                     network diagrams,                      
                     configuration                          
-                    details, and                           
+                    details and                           
                     implementation                         
                     plans.                                 
 
