@@ -16,10 +16,10 @@
 > **Table of Contents**
 
 +--------------------------------------------+-----------+-----+------+
-| **Name of Activities**                     | **Date**  |     | **   |
-|                                            |           |     | Page |
-|                                            |           |     | N    |
-|                                            |           |     | o.** |
+| **Name of Activities**                     | **Date**  |     |      |
+|                                            |           |     |      |
+|                                            |           |     |      |
+|                                            |           |     |      |
 +============================================+===========+=====+======+
 | **First Grading**                          |           |     |      |
 +--------------------------------------------+-----------+-----+------+
@@ -28,14 +28,14 @@
 | > Quiz 1                                   | 8/20/24   |     |      |
 |                                            |           |     |      |
 +--------------------------------------------+-----------+-----+------+
-| > Quiz 2                                   |           |     |      |
+| Assignments                                |           |     |      |
 +--------------------------------------------+-----------+-----+------+
-| > Quiz 3                                   |           |     |      |
+| > Assignment 1                             | 8/21/24   |     |      |
 +--------------------------------------------+-----------+-----+------+
 | Other Activities                           |           |     |      |
 +--------------------------------------------+-----------+-----+------+
-| > \<Name of Activity/Exercise/Library      |           |     |      |
-| > Research/Etc\>                           |           |     |      |
+| > Library Work Research                    | 9/04/24   |     |      |
+|                                            |           |     |      |
 +--------------------------------------------+-----------+-----+------+
 | > \<Name of Activity/Exercise/Library      |           |     |      |
 | > Research/Etc\>                           |           |     |      |
@@ -96,10 +96,17 @@
 
 ![Aug20](/uploads/2d4877f85257a9a60c65b7db294ceba3/Aug20.jpg)
 
+![Aug21](/uploads/372398cd8e6c9d5dde7af769908da453/Aug21.jpg)
+
+![Sept4](/uploads/55b9309a54dfae462033e66eac734e94/Sept4.jpg)
+
 **Course Reflection**
 
 What were your initial expectations for the course? Did the course meet,
 exceed, or fall short of these expectations?
+-In this course i expect that i will learn a lot about system
+administration, so that in the future i might have the chance to
+apply my knowledge to my chosen field.
 
   -----------------------------------------------------------------------
 
@@ -107,6 +114,10 @@ exceed, or fall short of these expectations?
 
 What were the main topics or concepts covered in the course? How did
 these topics contribute to your understanding of the subject matter?
+-In the course, we covered topics like virtualization, system setup
+networking, system monitoring, troubleshooting, backups, operating 
+system, etc. This topics help me understand how they functions and
+sharpened my problem-solving skills.
 
   -----------------------------------------------------------------------
 
