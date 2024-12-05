@@ -63,9 +63,7 @@ Proposed Strategies:
 
 Diagram:
 
-![A diagram of a computer network Description automatically
-generated](vertopal_d174b7bee64f41a088f468f0ee2cc4e2/media/image3.png){width="7.5447495625546805in"
-height="6.766760717410324in"}
+![Diagram](https://github.com/Carpio-C/SYSADMIN-IDC1/blob/1a3a0e71273bcc8329db07ffe25d44985fbd2e82/Images/Diagram.png)
 
   ------------------------------------------------------------------------------
   Criteria          Excellent \| 10pts Good \| 7pts        Needs Improvement \|
