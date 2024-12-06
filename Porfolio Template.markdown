@@ -109,6 +109,14 @@ Midterms:
 
 ![Oct16](/uploads/38bfe34eb5ff7f132ea11f1cf3b38f72/Oct16.jpg)
 
+Finals:
+
+![Nov_19_](/uploads/11667b0b75f1c3f8c0eb8cdeb392d58a/Nov_19_.jpg)
+
+![11_20_24](/uploads/f820d16b73395df780b7513d2349074c/11_20_24.png)
+
+![11_6_24](/uploads/641058170c5e4930d79bcb5df3045df3/11_6_24.png)
+
 
 **Course Reflection**
 
